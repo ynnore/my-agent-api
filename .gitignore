@@ -145,6 +145,7 @@ out/
 .vscode/
 .yarn/
 .pnpm-debug.log
+frontend/node_modules/.cache/
 
 # Log files
 npm-debug.log*
